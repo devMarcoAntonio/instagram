@@ -14,4 +14,4 @@ ___
 - HTML5
 - CSS3
 ___
-Receated by Dev Marco Antonio(this project it´s a copy and unknown author ).
+Receated by Dev Marco Antonio(this project it´s a copy Gabriela Pinheiro ).
