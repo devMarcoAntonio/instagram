@@ -14,4 +14,4 @@ ___
 - HTML5
 - CSS3
 ___
-Receated by Dev Marco Antonio(this project it´s a copy Gabriela Pinheiro ).
+Recreated by Dev Marco Antonio(this project it´s a copy Gabriela Pinheiro ).
